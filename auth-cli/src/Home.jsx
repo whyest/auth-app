@@ -19,7 +19,11 @@ const Home = (props) => {
       <div className='titleContainer'>
         <div>Добро пожаловать</div>
       </div>
-      <div>Главная страница</div>
+      <div>
+        <h1 className='subtitle'>
+          Жми на кнопку и <span className='rotator'></span>
+        </h1>
+      </div>
       <div className='buttonContainer'>
         <input
           className='inputButton'
