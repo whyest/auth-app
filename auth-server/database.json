@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "email": "whyest@gmail.com",
+      "password": "$2b$10$BnTVxTiDrUNCHOKxx3EF8ebt3e0lsLbTN1N15G1BY02EoZG2BgpQm"
+    },
+    {
+      "email": "den@den.com",
+      "password": "$2b$10$tJzf1z46I3iWfOn3RVVGzuYbW/KYPm10hG6YWNGxW.Z.T3Tyy/FG6"
+    },
+    {
+      "email": "ken@ken.com",
+      "password": "$2b$10$H.yehY/23KHIZcenSA6VPOUkCKPquDe0WycLPWoYr5tC4ztRiu1pi"
+    },
+    {
+      "email": "ben@ben.com",
+      "password": "$2b$10$tWszKydyUSvj3gI1Up6gwuTc6QTi0PoO5SqJqbl0FPP7Gm2HdyaGu"
+    }
+  ]
+}
